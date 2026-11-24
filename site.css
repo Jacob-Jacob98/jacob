@@ -42,7 +42,7 @@ nav a:hover { text-decoration: underline; text-underline-offset: .45rem; }
 .kicker.light { color: #e4eeea; }
 .kicker.light::before { background: var(--orange); }
 h1, h2, .quote { font-family: "Songti SC", "STZhongsong", "Noto Serif CJK SC", SimSun, serif; }
-h1 { margin: 1.3rem 0; font-size: clamp(4rem, 6.5vw, 6.7rem); line-height: 1.13; letter-spacing: -.045em; }
+h1 { margin: 1.3rem 0; font-size: clamp(2.6rem, 4.9vw, 5.4rem); line-height: 1.18; letter-spacing: -.045em; }
 h1 span, footer h2 span { color: var(--orange); }
 .hero-copy { color: #e5eeed; font-size: clamp(1rem, 1.25vw, 1.18rem); line-height: 1.85; }
 .button { display: inline-flex; align-items: center; justify-content: center; min-height: 3rem; padding: .65rem 1.55rem; margin-top: 1.65rem; }
@@ -126,7 +126,7 @@ dialog img { margin: auto; height: auto; }
   .hero-inner { padding-block: 3.3rem; }
   .hero-photo img { object-position: center; }
   .hero::after { background: linear-gradient(90deg, rgb(2 22 29 / 70%), rgb(2 22 29 / 5%) 95%); }
-  h1 { font-size: clamp(3.05rem, 11.3vw, 4.3rem); margin: 1rem 0; }
+  h1 { font-size: clamp(1.5rem, 8.6vw, 2.8rem); margin: 1rem 0; }
   .hero-copy { max-width: 17rem; }
   .channels { display: block; padding-block: .85rem 1rem; }
   .channels ul { margin-top: .25rem; border: 0; padding: 0; flex-wrap: wrap; }
